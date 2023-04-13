@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1681150332 source:c:\users\aleksa\desktop\banka_lista\banka_lista\banka_lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"menu.h"
+	"main_functions.h"
+	"secundary.h"
+
+1681147824 c:\users\aleksa\desktop\banka_lista\banka_lista\banka_lista\user.h
+
+1681150313 source:c:\users\aleksa\desktop\banka_lista\banka_lista\banka_lista\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"main_functions.h"
+	"secundary.h"
+
+1681134713 c:\users\aleksa\desktop\banka_lista\banka_lista\banka_lista\menu.h
+
+1681147102 c:\users\aleksa\desktop\banka_lista\banka_lista\banka_lista\main_functions.h
+
+1681150332 source:c:\users\aleksa\desktop\banka_lista\banka_lista\banka_lista\main_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"menu.h"
+	"secundary.h"
+
+1681143748 source:c:\users\aleksa\desktop\banka_lista\banka_lista\banka_lista\auxiliary function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"menu.h"
+	"main_functions.h"
+
+1681149249 c:\users\aleksa\desktop\banka_lista\banka_lista\banka_lista\secundary.h
+
+1681150313 source:c:\users\aleksa\desktop\banka_lista\banka_lista\banka_lista\secundary.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+	"menu.h"
+	"main_functions.h"
+
