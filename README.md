@@ -1,2 +1,2 @@
 # repository1
-Folder with code in C
+Files with the code for simulation of a mini banking application.
